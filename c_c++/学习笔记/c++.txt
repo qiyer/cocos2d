@@ -1,0 +1,18 @@
+
+软件 ：Sublime Text 
+
+c基础：http://www.yiibai.com/c/c_environment_setup.html#c_environment_setup
+c++基础:http://www.360doc.com/content/14/0423/16/7673502_371446047.shtml
+
+MinGW 使用:
+http://www.zhixing123.cn/ubuntu/42254.html
+
+
+1. c++    auto 作用。
+http://blog.csdn.net/huang_xw/article/details/8760403
+
+2. c++    ：： 作用。（域操作符）
+http://blog.sina.com.cn/s/blog_5fa918660100yqhf.html
+
+3.c++    #ifndef,#define用法
+http://blog.csdn.net/ljinddlj/article/details/2193788
