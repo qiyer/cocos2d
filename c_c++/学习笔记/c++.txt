@@ -16,3 +16,48 @@ http://blog.sina.com.cn/s/blog_5fa918660100yqhf.html
 
 3.c++    #ifndef,#define用法
 http://blog.csdn.net/ljinddlj/article/details/2193788
+
+4.    std::map
+http://blog.csdn.net/zjg555543/article/details/7531357
+
+5.    #pragma once
+http://www.cnblogs.com/Braveliu/archive/2012/12/29/2838726.html
+
+6.    std::pair, std::make_pair, std::min, std::max, std::swap  
+http://blog.163.com/chen_dawn/blog/static/112506320109823920240/
+
+7.    map以及类似指针iterator
+http://blog.csdn.net/xiaoxiaoniaoer1/article/details/7929795
+
+8.   C++ typedef用法小结
+http://www.cnblogs.com/charley_yang/archive/2010/12/15/1907384.html
+
+9.   c++中&什么意思
+http://zhidao.baidu.com/link?url=xUASP6XFNLCV4xm46uycE-kAz9vdRxFrnxSUgKRjzB296LLbv0ZFuQDfnEkxUrOGyCWc0ay4K58xV7-iFgtBI_
+
+10.   设计模式C++实现（4）——单例模式
+http://blog.csdn.net/wuzhekai1985/article/details/6665869
+
+11.   C++指针精髓(经典必看)
+http://wenku.baidu.com/link?url=TxgQrMwypRn-ApnVGoNXCPM0yBD2DhxnhCLxrum1qz6ckAooXeVqo8TGrrbEaVWkWg-_MnGC8Hgf6koczHOHtJNyfPyZyQXSSJHuFOoEtYq
+
+12.   static_cast, dynamic_cast, const_cast探讨
+http://www.cnblogs.com/chio/archive/2007/07/18/822389.html
+
+13.   cocos2d-x CC_PROPERTY 和 CC_SYNTHESIZE_READONLY 区别
+http://blog.csdn.net/cjopengler/article/details/11925161
+
+14.   doc
+http://cn.cocos2d-x.org/doc/cocos2d-x-3.0/classes.html
+
+15.   Cocos2d-x 3.0屏蔽下层触摸
+http://cn.cocos2d-x.org/tutorial/show?id=1333
+
+16.   Cocos2dx 小技巧（三）Label的换行
+http://blog.csdn.net/star530/article/details/22757281
+
+17.   cocos2dx-v3.0命令行创建工程
+http://jingyan.baidu.com/article/8275fc86ba986346a13cf66d.html
+
+18.   无法打开文件“libbox2d.lib”解决
+http://blog.csdn.net/dingxiaoqiang100/article/details/40678711
